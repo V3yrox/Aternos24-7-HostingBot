@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "EconomySMP-yOUT.aternos.me:50763",
+    "port": 50763,
     "version": "",
     "try-creative": false
   },
@@ -34,7 +34,7 @@
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
-      ]
+      
     },
     "chat-log": true,
     "auto-reconnect": true,
